@@ -1,0 +1,8 @@
+﻿  main.cpp
+  roster.cpp
+C:\Users\Kyron\source\repos\C170\C170\roster.cpp(26,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kyron\source\repos\C170\C170\roster.cpp(30,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Kyron\source\repos\C170\C170\roster.cpp(34,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Student.cpp
+  Generating Code...
+  C170.vcxproj -> C:\Users\Kyron\source\repos\C170\Debug\C170.exe
